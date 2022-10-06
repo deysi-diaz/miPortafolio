@@ -11,7 +11,7 @@ html{
 }
 /* MENU */
 .contenedor-header{
-    background: #1e2326;
+    background: #97d3f8;
     position: fixed;
     width: 100%;
     top: 0;
@@ -57,7 +57,7 @@ html{
 }
 /* SECCION I N I C I O */
 .inicio{
-    background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)),
+    background: linear-gradient(to top, rgba(190, 228, 251, 0.8), rgb(179, 221, 246)),
     url(img/fondo.jpg);
     background-size: cover;
     height: 100vh;
@@ -67,7 +67,7 @@ html{
 }
 .inicio .contenido-banner{
     padding: 20px;
-    background-color: #1e2326;
+    background-color: #4c4e4f;
     max-width: 350px;
     margin: auto;
     text-align: center;
@@ -107,7 +107,7 @@ html{
     background-color: #1CB698;
 }
 .sobremi{
-    background-color: #1e2326;
+    background-color: #8c888b;
     color: #fff;
     padding: 50px 20px;
 }
