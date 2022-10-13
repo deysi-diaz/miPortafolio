@@ -11,7 +11,7 @@ html{
 }
 /* MENU */
 .contenedor-header{
-    background: #d2d6d8;
+    background: #d5e8e8;
     position: fixed;
     width: 100%;
     top: 0;
@@ -38,7 +38,7 @@ html{
 }
 .contenedor-header header nav ul li a{
     text-align: none;
-    color: rgb(205, 26, 142);
+    color: rgb(14, 13, 14);
     margin: 0 15px;
     padding: 3px;
     transition: .5s;
@@ -48,7 +48,7 @@ html{
     color: #1CB698;
 }
 .nav-responsive{
-    background-color: #1CB698;
+    background-color: #1cb698;
     color:#fff;
     padding: 5px 10px;
     border-radius: 5px;
@@ -107,7 +107,7 @@ html{
     background-color: #b61c7e;
 }
 .sobremi{
-    background-color: #dcb8d3;
+    background-color: #e6cadf;
     color: rgb(17, 16, 16);
     padding: 50px 20px;
 }
@@ -210,7 +210,7 @@ html{
 }
 /* SECCION S K I L L S */
 .skills{
-    background-color: #ddc6e0;
+    background-color:  #cab7d3;
     color: rgb(16, 15, 15);
     padding: 50px 20px;
 }
@@ -360,7 +360,7 @@ html{
 }
 /* SECCION CURRICULUM */
 .curriculum{
-    background-color: #dac9dd;
+    background-color:  #e6cadf;
     color: rgb(13, 12, 12);
     padding: 50px 20px;
 }
@@ -399,6 +399,7 @@ html{
     margin-bottom: 30px;
     background-color: #c0ccd7;
     position: relative;
+    border-radius: 40px;
 }
 .curriculum .fila .item h4{
     font-size: 20px;
@@ -466,7 +467,7 @@ html{
 }
 /* SECCION PORTFOLIO */
 .portfolio{
-    background-color: #d8bbd3;
+    background-color: #e6cadf;
     color: rgb(20, 19, 19);
     padding: 50px 20px;
 }
